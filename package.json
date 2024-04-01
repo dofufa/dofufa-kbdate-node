@@ -1,0 +1,28 @@
+{
+  "name": "dofufa-kbdate-node",
+  "version": "0.1.0",
+  "description": "Creates knowledge base identifier",
+  "main": "cli.js",
+  "scripts": {
+    "test": "bash tests/test1.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dofufa/kbdate-bash-node.git"
+  },
+  "keywords": [
+    "kbdate",
+    "knowledge",
+    "base",
+    "identifier"
+  ],
+  "bin": {
+    "dofufa-kbdate": "./cli.js"
+  },
+  "author": "Dofufa Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dofufa/dofufa-kbdate-node/issues"
+  },
+  "homepage": "https://github.com/dofufa/dofufa-kbdate-node#readme"
+}
